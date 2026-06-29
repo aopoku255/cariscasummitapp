@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660419145983",
+    "project_id": "summitapp-3634e",
+    "storage_bucket": "summitapp-3634e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660419145983:android:5df06a45ca5648834d9cca",
+        "android_client_info": {
+          "package_name": "com.cariscasummit.cbfapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUts-9OO5Q0LbLsNpwnQkx7TYLxmyCAws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
